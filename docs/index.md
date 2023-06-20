@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publishing Research Software using Github and Zenodo
+title: Home
 nav_order: 1
 ---
 
